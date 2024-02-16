@@ -1,6 +1,6 @@
-# Task Manager API
+# Blog API
 
-Blog API that can be used to manage posts and comments as well as go through the registration and logging user process using a JWT token.
+Blog API can be used to manage posts and comments as well as go through the registration and logging user process using a JWT token.
 
 ## Features
 
